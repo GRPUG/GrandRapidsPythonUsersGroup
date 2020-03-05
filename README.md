@@ -2,9 +2,18 @@
 
 Grand Rapids Python Users Group (GRPUG)
 
-# Next Meeting
+# 2020 Meetings
 
-**Mon, Dec 16, 2019 · 6:00 PM**
+- [Mar 16, 2020.](https://www.meetup.com/grpython/events/hbbjglybcfbvb/)
+- [Apr 20, 2020.](https://www.meetup.com/grpython/events/hbbjglybcgbbc/)
+- [May 18, 2020.](https://www.meetup.com/grpython/events/hbbjglybchbxb/)
+- [Jun 15, 2020.](https://www.meetup.com/grpython/events/hbbjglybcjbtb/)
+- [Jul 20, 2020.](https://www.meetup.com/grpython/events/hbbjglybckbbc/)
+- [Aug 17, 2020.](https://www.meetup.com/grpython/events/hbbjglybclbwb/)
+- [Sep 21, 2020.](https://www.meetup.com/grpython/events/hbbjglybcmbcc/)
+- [Oct 19, 2020.](https://www.meetup.com/grpython/events/hbbjglybcnbzb/)
+- [Nov 16, 2020.](https://www.meetup.com/grpython/events/hbbjglybcpbvb/)
+- [Dec 21, 2020.](https://www.meetup.com/grpython/events/hbbjglybcqbcc/)
 
 > Our monthly meetings typically include a formal presentation by a group member, hacking on group projects, open discussions, and more. Afterwards, we go out for drinks and dinner at the nearby HopCat brewery. More details about this specific meeting will be available as we get closer to the meeting date.
 
